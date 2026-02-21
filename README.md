@@ -15,7 +15,7 @@ RUNNING
 
 COMPLETED
 
-![API CURL Demo)(./docs/curl-workflow-demo.png)
+![API CURL Demo](docs/curl-workflow-demo.png)
 
 
 # Features
