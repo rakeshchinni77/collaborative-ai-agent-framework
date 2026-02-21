@@ -5,6 +5,18 @@ A production-grade distributed AI workflow system built with **FastAPI + Postgre
 This system enables **asynchronous multi-agent task execution with human-in-the-loop approval**, structured logging, and full test coverage.
 
 ---
+# API Workflow Demo (CURL)
+
+The following screenshot shows the complete lifecycle:
+
+PENDING AWAITING_APPROVAL
+
+RUNNING
+
+COMPLETED
+
+![API CURL Demo)(./docs/curl-workflow-demo.png)
+
 
 # Features
 
